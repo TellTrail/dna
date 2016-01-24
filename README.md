@@ -18,7 +18,7 @@ When that data is then transferred to a third party, either through the selling 
 
 TellTrail operates from the perspective that while data *about* an individual may not belong to that person, they are nonetheless a stakeholder in that data, and should have a say in how it is transferred to third parties.
 
-## With What Parties is TellTrail Concerned?
+## With Which Parties is TellTrail Concerned?
 
 The TellTrail ecosystem is concerned with 4 types of parties:
 
