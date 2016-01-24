@@ -8,7 +8,7 @@ This repository, **dna**, does not contain code, but rather documents the primar
 
 ## What is TellTrail?
 
-> To get a quick idea of the TellTrail concept, see the [manifesto](MANIFESTO.md).
+> **To get a quick idea of the TellTrail concept, see the [manifesto](MANIFESTO.md).**
 
 TellTrail is data privacy project. As personal data collection becomes increasingly ubiquitous, we believe a mechanism for an individual's control over data about them will become necessary.  The TellTrail project will seek to build the technical, legal and advocacy infrastructure necessary to support this mechanism.
 
