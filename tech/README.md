@@ -8,7 +8,7 @@ One column of TellTrail is technology.  There is a collection of technology proj
 
 Paramount is the Policy Server.   This project's goal is to create a scaleable online service that acts as an arbiter of whether a data transfer is permissable according to a Data Citizen's policy.  There is only one policy server, operated by TellTrail.org, and it contains all data policies.
 
-There will be a **Policy Server Protocol (PRP)** that defines communication with the Policy Server.
+There will be a **Policy Request Protocol (PRP)** that defines communication with the Policy Server.
 
 ## Reference Data Compliance Library
 
